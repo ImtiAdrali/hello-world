@@ -19,4 +19,4 @@ This command will show the list of available Docker images on your system, inclu
 
 ## Creating a Docker Container from the Fides Image
   
-  1. ### Using ```sh docker run <image_name>```
+  1. ### Using ```docker run <image_name>```
