@@ -21,7 +21,7 @@ This command will show the list of available Docker images on your system, inclu
   
   1. ### Using ```docker run <image_name>```
   
-    To create Docker Container from fides image use the below command listed
+   To create Docker Container from fides image use the below command listed
     ```sh
       docker run fides
     ```
