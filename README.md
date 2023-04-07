@@ -32,9 +32,9 @@ This command will show the list of available Docker images on your system, inclu
     
   2. ### Using ```docker-compose up``` from the deployment folder
   
-    To create a Docker Container from fides image use the below command listed
-    ```sh
-      docker-compose up
-    ```
-    Docker Compose is a tool for defining and running multi-container Docker applications. You can create a docker-compose.yml file that 
-    specifies the image to use for each service and use the docker-compose up command to start the containers.
+   To create a Docker Container from fides image use the below command listed
+   ```sh
+     docker-compose up
+   ```
+   Docker Compose is a tool for defining and running multi-container Docker applications. You can create a docker-compose.yml file that 
+   specifies the image to use for each service and use the docker-compose up command to start the containers.
