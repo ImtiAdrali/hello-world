@@ -38,3 +38,9 @@ This command will show the list of available Docker images on your system, inclu
    ```
    Docker Compose is a tool for defining and running multi-container Docker applications. You can create a docker-compose.yml file that 
    specifies the image to use for each service and use the docker-compose up command to start the containers.
+
+## Save the image to a tar archive
+  
+  The ```docker save``` command is used to save one or more Docker images to a tar archive file. This can be useful for moving images between different 
+  Docker hosts or for backup and restoration purposes.
+  
