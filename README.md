@@ -44,3 +44,11 @@ This command will show the list of available Docker images on your system, inclu
   The ```docker save``` command is used to save one or more Docker images to a tar archive file. This can be useful for moving images between different 
   Docker hosts or for backup and restoration purposes.
   
+  To save the fides image to a tar archinve use the below command
+  ```sh
+    docker save -o fides.tar fides
+  ```
+  
+  This command saves the fides Docker image and all its dependencies into a tar archive file named fides.tar
+  
+  
