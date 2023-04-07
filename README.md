@@ -3,6 +3,7 @@
 
 ## Creating an Image
 ```sh
+  # create an image from the application
   gradlew buildDocker
 ```
 
