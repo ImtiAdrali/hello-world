@@ -18,6 +18,7 @@ This task will compile the application, build the Docker image, and tag the imag
 This command will show the list of available Docker images on your system, including the one you just created.
 
 ## Creating a Docker Container from the Fides Image
+  ### Two ways
   
   1. ### Using ```docker run <image_name>```
   
