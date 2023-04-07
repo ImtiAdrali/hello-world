@@ -1,5 +1,5 @@
 # FIDES DEPLOYMENT TO DOCKER
 
 
-## Createing an Image
+## Creating an Image
 
