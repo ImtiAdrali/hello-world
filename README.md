@@ -23,12 +23,12 @@ This command will show the list of available Docker images on your system, inclu
   
    To create Docker Container from fides image use the below command listed
    
-    ```sh
-      docker run fides
-    ```
+   ```sh
+     docker run fides
+   ```
     
-    This is the most common way to create a container from a docker image. 
-    This command starts a new container based on the specific image.
+   This is the most common way to create a container from a docker image. 
+   This command starts a new container based on the specific image.
     
   2. ### Using ```docker-compose up``` from the deployment folder
   
